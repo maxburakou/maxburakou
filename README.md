@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maksim Burakou</h1>
-<h3 align="center">Frontend Developer with over 5 years of experience specializing in building high-performance, scalable, responsive, and user-centric web applications using React. Willing to bring strong technical expertise and a collaborative mindset to dynamic and challenging projects.</h3>
+<h1 align="center">Maksim Burakou, Frontend Developer</h1>
+<h3>Frontend Developer with over 5 years of experience specializing in building high-performance, scalable, responsive, and user-centric web applications using React. Willing to bring strong technical expertise and a collaborative mindset to dynamic and challenging projects.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
