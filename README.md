@@ -9,10 +9,9 @@
 <a href="maksim.burakou.job@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maksim-burakou" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="maksim.burakou.job@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maksim-burakou" height="30" width="40" /></a>
+<a href="maksim.burakou.job@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/532540/location-pin-alt-1.svg" alt="maksim-burakou" height="30" width="40" /></a>
 </p>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maksim-burakou" height="30" width="40" />
 Location: USA / remote
 </p>
 
