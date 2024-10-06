@@ -1,9 +1,19 @@
-<h1 align="center">Maksim Burakou, Frontend Developer</h1>
+<h1>Maksim Burakou, Frontend Developer</h1>
 <h3>Frontend Developer with over 5 years of experience specializing in building high-performance, scalable, responsive, and user-centric web applications using React. Willing to bring strong technical expertise and a collaborative mindset to dynamic and challenging projects.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact information:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maksim-burakou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maksim-burakou" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="maksim.burakou.job@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maksim-burakou" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="maksim.burakou.job@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maksim-burakou" height="30" width="40" /></a>
+</p>
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maksim-burakou" height="30" width="40" />
+Location: USA / remote
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
