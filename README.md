@@ -7,7 +7,7 @@
   👈 My LinkedIn
 </p>
 <p align="left">
-<a href="maksim.burakou.job@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/502648/email.svg" alt="My email" height="30" width="40" /></a>
+<a href="mailto:maksim.burakou.job@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/502648/email.svg" alt="My email" height="30" width="40" /></a>
   👈 My email
 </p>
 <p align="left">
