@@ -12,7 +12,7 @@
 </p>
 <p align="left">
 <img align="center" src="https://www.svgrepo.com/show/421676/gps-location-maps.svg" alt="location" height="30" width="40" />
-  Location: USA / remote
+  Location: USA / <b>remote</b> worldwide
 </p>
 <hr>
 <h3 align="left">🥷 Skills:</h3>
@@ -48,7 +48,6 @@
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">🗄️ Databases:</h4>
