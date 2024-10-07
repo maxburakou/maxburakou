@@ -3,15 +3,15 @@
 <hr>
 <h3 align="left">💬 Contact information:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maksim-burakou" target="blank"><img align="center" src="https://www.svgrepo.com/show/494209/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maksim-burakou" target="blank"><img align="center" src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
   👈 My LinkedIn
 </p>
 <p align="left">
-<a href="mailto:maksim.burakou.job@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/502648/email.svg" alt="My email" height="30" width="40" /></a>
+<a href="mailto:maksim.burakou.job@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/234962/email-mail.svg" alt="My email" height="30" width="40" /></a>
   👈 My email
 </p>
 <p align="left">
-<img align="center" src="https://www.svgrepo.com/show/532540/location-pin-alt-1.svg" alt="location" height="30" width="40" />
+<img align="center" src="https://www.svgrepo.com/show/513552/location-pin.svg" alt="location" height="30" width="40" />
   Location: USA / remote
 </p>
 <hr>
