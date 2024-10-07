@@ -11,7 +11,7 @@
   👈 My email
 </p>
 <p align="left">
-<img align="center" src="https://www.svgrepo.com/show/513552/location-pin.svg" alt="location" height="30" width="40" />
+<img align="center" src="https://www.svgrepo.com/show/421676/gps-location-maps.svg" alt="location" height="30" width="40" />
   Location: USA / remote
 </p>
 <hr>
