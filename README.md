@@ -1,14 +1,14 @@
-<h1 align="left"><b>Maksim Burakou,</b> $${\color{gray}Frontend \space Developer}$$ (React <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" height="25" width="25" />)</h1>
+<h1 align="left"><b>Max Burakou,</b> $${\color{gray}Frontend \space Developer}$$ (React <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" height="25" width="25" />)</h1>
 <h3 align="left">Frontend Developer with over 5 years of experience specializing in building high-performance, scalable, responsive, and user-centric web applications using React. Willing to bring strong technical expertise and a collaborative mindset to dynamic and challenging projects. Proficient in transforming complex requirements into intuitive and engaging user interfaces, with a focus on performance optimization and clean, maintainable code. Adept at collaborating across cross-functional teams to ensure seamless integration and delivery. Continuously learning and staying up-to-date with the latest technologies to enhance user experience and development efficiency.</h3>
 <hr>
 <h3 align="left">💬 Contact information:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maksim-burakou" target="blank"><img align="center" src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maxburakou" target="blank"><img align="center" src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
   👈 My LinkedIn
 </p>
 <p align="left">
 <a href="mailto:maksim.burakou.job@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/234962/email-mail.svg" alt="My email" height="30" width="40" /></a>
-  👈 My email: maksim.burakou.job@gmail.com
+  👈 My email: maxburakou.job@gmail.com
 </p>
 <p align="left">
 <img align="center" src="https://www.svgrepo.com/show/421676/gps-location-maps.svg" alt="location" height="30" width="40" />
